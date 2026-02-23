@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "想うた ～親を想う～",
+  "base_artist": "MONGOL800",
+  "createdAt": "2026-02-23T12:05:28.228536Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "想うた ～親を想う～",
+      "artist": "MONGOL 800",
+      "has_synced": false,
+      "path": "select/pl_01_想うた_~親を想う~_MONGOL_800.txt"
+    }
+  ]
+}
